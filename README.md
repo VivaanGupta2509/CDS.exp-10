@@ -98,5 +98,14 @@ int main()
     return 0;
 }
 ```
+## Outputs - 
+### A -
+<img width="685" alt="Screenshot 2024-08-31 at 4 12 36 PM" src="https://github.com/user-attachments/assets/9d30fded-7b53-4560-8c05-9dc2ae27c915">
 
+### B -
+<img width="681" alt="Screenshot 2024-09-01 at 12 35 28 AM" src="https://github.com/user-attachments/assets/7b4ae3f6-e769-455a-b964-1c65e8e367d3">
+
+## Conclusion - 
+I learnt about pointers and how to pass arguments to functions using call by value and call by reference methods.
+I also learnt how to swap values using call by reference.
 
